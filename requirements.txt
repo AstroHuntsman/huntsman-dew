@@ -1,0 +1,4 @@
+hidapi
+adafruit-blinka
+adafruit-circuitpython-shtc3
+panoptes-utils
